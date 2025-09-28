@@ -2,9 +2,15 @@
 
 Formal verification project for the Top Single Layer (TSL) encoding method from the paper “At the Top of the Hypercube — Better Size-Time Tradeoffs for Hash-Based Signatures” (ePrint 2025/889).
 
-Formal security proofs of TSL are written in Lean 4.
+Formal security proofs of TSL are written in Lean 4 mainly using Mathlib and VCVio.
 
 Paper: https://eprint.iacr.org/2025/889
+
+This library can be built:
+
+```bash
+lake build
+```
 
 ## Proof Status
 
