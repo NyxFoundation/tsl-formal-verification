@@ -1,0 +1,6 @@
+/.lake
+/node_modules
+dist/
+actual-prompts/
+.DS_Store
+tmp*
