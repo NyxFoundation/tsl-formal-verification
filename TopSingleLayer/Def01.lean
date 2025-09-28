@@ -9,8 +9,6 @@ This file defines the hypercube `([w]^v, edge)`:
 - Directed edge `x ⟶ y` iff there exists an index `i : Fin v` such that
   the `i`-th coordinate increases by exactly one and all other coordinates
   remain unchanged.
-
-The representation follows the spec in `def01_hypercube.md`.
 -/
 
 namespace TopSingleLayer

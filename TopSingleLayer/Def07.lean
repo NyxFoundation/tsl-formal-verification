@@ -8,7 +8,7 @@ import TopSingleLayer.Def05
 
 This module formalizes the two-stage target-collision resistance game
 for encodings `f : M × R → [w]^v` and the corresponding ε-security
-statement, following `def07_target-collision-resistance.md`.
+statement.
 
 - An adversary runs in two phases: it first outputs a target message and
   internal state, then receives a random seed `r : R` and outputs a new

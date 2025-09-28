@@ -8,7 +8,7 @@ import VCVio
 # Theorem: TSL encoding is incomparable and TCR-bounded
 
 This module proves the two headline properties of the Top Single Layer
-encoding (TSL), following `thm_tsl-is-incomparable-and-tcr.md`:
+encoding (TSL):
 
 - Incomparability: the image of the encoding consists of pairwise
   incomparable vertices (by reduction to Lemma 01 on a single layer).

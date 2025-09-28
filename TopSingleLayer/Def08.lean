@@ -5,8 +5,8 @@ import TopSingleLayer.Def05
 /-!
 # Definition 08: Top Single Layer (TSL) encoding
 
-This module specifies the Top Single Layer encoding following
-`def08_tsl.md`. The construction maps every input to a single layer
+This module specifies the Top Single Layer encoding.
+The construction maps every input to a single layer
 `d₀` of the `(w,v)`-hypercube via a postprocessing map `psi` applied to
 the output of a (random-oracle-like) function `H`.
 

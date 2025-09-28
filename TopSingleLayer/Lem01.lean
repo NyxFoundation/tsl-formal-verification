@@ -8,8 +8,6 @@ import TopSingleLayer.Def03
 If two distinct vertices lie in the same layer `L_d` of the `(w,v)`
 hypercube, then they are incomparable with respect to the coordinatewise
 order `hypercubeLe`.
-
-This follows the statement in `lem01.md`.
 -/
 
 namespace TopSingleLayer
