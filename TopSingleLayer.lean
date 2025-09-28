@@ -10,8 +10,9 @@ import TopSingleLayer.Def07
 import TopSingleLayer.Def08
 import TopSingleLayer.Def09
 import TopSingleLayer.Lem01
-import TopSingleLayer.Lem04
-import TopSingleLayer.Lem03
 import TopSingleLayer.Lem02
+import TopSingleLayer.Lem03
+import TopSingleLayer.Lem04
 import TopSingleLayer.Lem05
+import TopSingleLayer.Lem06
 import TopSingleLayer.Thm
