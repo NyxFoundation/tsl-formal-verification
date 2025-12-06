@@ -1,0 +1,23 @@
+{
+	"$schema": "https://biomejs.dev/schemas/2.2.3/schema.json",
+	"files": {
+		"experimentalScannerIgnores": ["**/*.lean"]
+	},
+	"assist": {
+		"actions": {
+			"source": {
+				"organizeImports": "on"
+			}
+		}
+	},
+	"formatter": { "enabled": true },
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"recommended": true,
+			"correctness": {
+				"noUnusedImports": "error"
+			}
+		}
+	}
+}
